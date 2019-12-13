@@ -1,0 +1,8 @@
+Requisitos: 
+	Tweepy
+	
+	
+Bot muy simple que permite publicar un mensaje (tweet) en concreto tras X segundos
+
+En el caso por defecto, publica el número del archivo dias.txt y lo incrementa en 1 cada 24h
+

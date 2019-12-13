@@ -1,0 +1,15 @@
+
+
+32: Ed Sheeran, 1, 23 
+bools: item 0, uso 0, realidad 0, mente 1, alma 1, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+34: El Cigala, 1, 10 
+bools: item 0, uso 0, realidad 1, mente 0, alma 0, espacio 1, poder 1, tiempo 1, vida 0, resurrecion 0, muerto 0
+
+
+
+118: Willyrex, 1, 4 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+

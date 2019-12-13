@@ -1,0 +1,605 @@
+
+
+0: Ada Colau, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+1: Albert Rivera, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+2: Alexelkpop, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+3: Alvaro Ojeda, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+4: Anatoli Dyatlov, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+5: Angela Merkel, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+6: Angelysaras, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+8: AuronPlay, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+9: Aznar, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+10: Bad Bunny, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+11: Belle Delphine, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+12: Belen Esteban, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+13: Berto Romero, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+14: Bill Gates, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+15: Bolsonaro, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+16: Bradd Pitt, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+17: Brie Larson, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+18: Broncano, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+19: Bruce Dickinson, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+20: Carmena, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+21: Cepeda con pelo, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+22: Chicote, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+23: Chuck Norris, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+24: Cristiano Ronaldo, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+25: Curco Bein, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+26: Dalas Review, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+27: Dario MH, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+28: Dicaprio, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+29: Dio, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+30: Dulceida, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+31: Echenique, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+32: Ed Sheeran, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+33: El Cejas, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+34: El Cigala, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+35: El Juanca, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+36: Elon Musk, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+37: Emilia Clarke, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+38: Eminem, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+39: Emma Watson, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+40: Errejon, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+41: Ewan Mcgregor, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+42: Falete, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+43: Federer, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+44: Federico Jimenez Losantos, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+45: Felipe Gonzalez, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+46: Felipe VI, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+47: Felipez360, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+48: Francisco Franco, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+49: GRRM, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+50: Gabe Newell, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+51: George Lucas, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+52: Ibai, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+53: Ignatius, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+54: Iker Casillas, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+55: Ilitri, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+56: Jackie Chan, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+57: Jay-Z, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+58: Jim Parsons, 1, 1 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+59: John Cena, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+60: John Cobra, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+61: Johnny Deep Bebido, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+62: Johnny Sins, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+63: Jon Snow, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+64: Jordi ENP, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+65: Jotaro, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+66: Julio Iglesias (El amante), 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+67: Justin Bieber, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+68: Kako Forns, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+69: Katy Perry, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+70: Keanu Reeves, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+71: Kidd Keo, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+72: Kiko Rivera, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+73: Kim Jong-un, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+74: La Reina del Brillo, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+75: Leticia Sabater, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+76: Lil Nas, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+77: Maduro, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+78: Mangelrogel, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+79: Messi, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+80: Misterjagger, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+81: Muzska, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+82: Notch, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+83: Oh Gran Philippe, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+84: Orslok, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+85: Pablo Iglesias, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+86: Pedro Sanchez, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+87: Perro Viejo, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+88: Peter Dinklage, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+89: PewdiePie, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+90: Pique, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+91: Puigdemont, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+92: Putin, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+93: Queque, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+94: Rafa Nadal, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+95: Rami Malek, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+96: Ramoncin, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+97: Revk08, 4, 4 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+98: Robert Downey Jr., 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+99: Romeo Santos, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+100: Rosalia, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+101: Samus, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+102: Santiago Abascal, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+103: Santiago Segura, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+104: Scarlett Johansson, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+105: Selena Gomez, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+106: Shakira, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+107: Soros, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+108: Sofia Vergara, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+109: Sr. Cheeto, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+110: Taylor Swift, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+111: Thanos con Guantelete, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+112: The Grefg, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+113: Theresa May, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+114: Tiger Woods, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+115: Todd Howard, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+116: Trump, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+117: Usain Bolt, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+118: Willyrex, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+119: Wismichu, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+120: Zapatero, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
+
+
+121: Serena Williams, 1, 0 
+bools: item 0, uso 0, realidad 0, mente 0, alma 0, espacio 0, poder 0, tiempo 0, vida 0, resurrecion 0, muerto 0
+
